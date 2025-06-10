@@ -1,0 +1,4 @@
+# Version 1.0
+# 2025-06-10
+#This script create a CSV and HTML file that displays the following information of all ESXi hosts in a vCenter
+#Hostname, Motherboard& ModelSerialNumber
